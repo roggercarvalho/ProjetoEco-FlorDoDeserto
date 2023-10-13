@@ -1,6 +1,6 @@
 package simular.Eco.P;
 
-public class FenomenoNatural extends Elemento {
+public class FenomenoNatural extends SerVivo {
     public FenomenoNatural(String nome, int idade, boolean predador) {
         super(nome, idade, predador);
     }

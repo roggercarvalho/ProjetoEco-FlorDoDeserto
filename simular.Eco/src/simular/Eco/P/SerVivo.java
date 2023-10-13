@@ -1,11 +1,11 @@
 package simular.Eco.P;
 
-public class Elemento {
+public class SerVivo {
     private String nome;
     protected int idade;
     private boolean predador;
 
-    public Elemento(String nome, int idade, boolean predador) {
+    public SerVivo(String nome, int idade, boolean predador) {
         this.nome = nome;
         this.idade = idade;
         this.predador = predador;
