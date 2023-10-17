@@ -40,14 +40,3 @@ O simulador apresenta as seguintes funcionalidades:
 
 ## Uso
 Para rodar o simulador, basta executar o método `main` na classe `Ecossistema`.
-
-## Exemplo de Simulação
-```java
-public static void main(String[] args) {
-    // Crie e configure os seres vivos no ecossistema
-
-    // Execute a simulação por vários ciclos
-
-    // Exiba os resultados
-}
-
