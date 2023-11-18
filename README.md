@@ -40,3 +40,8 @@ O simulador apresenta as seguintes funcionalidades:
 
 ## Uso
 Para rodar o simulador, basta executar o método `main` na classe `Ecossistema`.
+
+## LICENÇA
+![GitHub License](https://img.shields.io/github/license/roggercarvalho/ProjetoEco-FlorDoDeserto?link=https%3A%2F%2Fgithub.com%2Froggercarvalho%2FProjetoEco-FlorDoDeserto%2Fcommit%2Fabc38a7d93dbca21ca21afd946967d00906166ec)
+
+
